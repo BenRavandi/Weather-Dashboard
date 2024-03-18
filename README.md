@@ -22,4 +22,4 @@ The following displays a snapshot of my Weather Dashboard Application:
 ## Test
 
 The following link will take you to my weather dashboard application: <br>
- <a href="https://benravandi.github.io/PasswordGeneratorApp/">Visit MyWeatherDashboard!</a>
+ <a href="https://benravandi.github.io/Weather-Dashboard/">Visit MyWeatherDashboard!</a>
