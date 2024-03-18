@@ -1,0 +1,83 @@
+html {
+    background: url(https://hdqwalls.com/wallpapers/earth-space-hd.jpg) no-repeat center fixed;
+    background-size: cover;
+
+}
+
+body {
+    color: rgb(249, 251, 252);
+    background-color: unset
+}
+
+.navbar {
+    background-color: rgb(32, 28, 49) !important;
+}
+
+#title {
+    font-size: 40px;
+}
+
+h2,
+h3 {
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+h4 {
+    font-weight: 600;
+}
+
+.container {
+    max-width: 1300px;
+}
+
+.bg-primary,
+.input-group {
+    margin-bottom: 10px;
+}
+
+.btn-group-vertical {
+    width: 100%;
+    display: inline-block;
+}
+
+.btn-light {
+    text-align: left;
+}
+
+.uvPadding {
+    padding: 7px;
+    border-radius: 20px;
+}
+
+.card-body {
+    border-radius: 30px;
+    border-style: none;
+    padding-bottom: 0;
+    background-color: rgb(32, 28, 49);
+}
+
+#weatherForecast {
+    padding: 2px;
+}
+
+#currentWeather {
+    border-radius: 20px;
+}
+
+#previousSearch {
+    margin-bottom: 15px;
+    max-height: 408px;
+    overflow: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    #previousSearch {
+        max-height: 152px;
+    }
+
+    #navSize {
+        display: flexbox;
+        flex-direction: column-reverse;
+    }
+}
